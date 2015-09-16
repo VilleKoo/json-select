@@ -1,0 +1,409 @@
+
+ { "Table":[
+  {
+    "Koodi": 340,
+    "fi-name": "Aivot ja hermosto",
+    "fi-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/FI\/StatsFact.asp?cancer=340&country=246",
+    "se-name": "Hj\u00e4rna och \u00f6vriga nervsystemet",
+    "se-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/SW\/StatsFact.asp?cancer=340&country=246",
+    "en-name": "Brain, central nervous system",
+    "en-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/english\/StatsFact.asp?cancer=340&country=246"
+  },
+  {
+    "Koodi": 60,
+    "fi-name": "Alanielu",
+    "fi-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/FI\/StatsFact.asp?cancer=60&country=246",
+    "se-name": "Nedre svalg",
+    "se-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/SW\/StatsFact.asp?cancer=60&country=246",
+    "en-name": "Hypopharynx",
+    "en-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/english\/StatsFact.asp?cancer=60&country=246"
+  },
+  {
+    "Koodi": 261,
+    "fi-name": "Eturauhanen",
+    "fi-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/FI\/StatsFact.asp?cancer=261&country=246",
+    "se-name": "Prostata",
+    "se-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/SW\/StatsFact.asp?cancer=261&country=246",
+    "en-name": "Prostate",
+    "en-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/english\/StatsFact.asp?cancer=261&country=246"
+  },
+  {
+    "Koodi": 150,
+    "fi-name": "Haima",
+    "fi-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/FI\/StatsFact.asp?cancer=150&country=246",
+    "se-name": "Bukspottk\u00f6rtel",
+    "se-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/SW\/StatsFact.asp?cancer=150&country=246",
+    "en-name": "Pancreas",
+    "en-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/english\/StatsFact.asp?cancer=150&country=246"
+  },
+  {
+    "Koodi": 390,
+    "fi-name": "Hodgkinin lymfooma",
+    "fi-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/FI\/StatsFact.asp?cancer=390&country=246",
+    "se-name": "Hodgkins lymfom",
+    "se-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/SW\/StatsFact.asp?cancer=390&country=246",
+    "en-name": "Hodgkin lymphoma",
+    "en-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/english\/StatsFact.asp?cancer=390&country=246"
+  },
+  {
+    "Koodi": 10,
+    "fi-name": "Huuli",
+    "fi-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/FI\/StatsFact.asp?cancer=10&country=246",
+    "se-name": "L\u00e4pp",
+    "se-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/SW\/StatsFact.asp?cancer=10&country=246",
+    "en-name": "Lip",
+    "en-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/english\/StatsFact.asp?cancer=10&country=246"
+  },
+  {
+    "Koodi": 320,
+    "fi-name": "Iho, ei melanooma",
+    "fi-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/FI\/StatsFact.asp?cancer=320&country=246",
+    "se-name": "Hud, icke malignt melanom",
+    "se-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/SW\/StatsFact.asp?cancer=320&country=246",
+    "en-name": "Skin, non-melanoma",
+    "en-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/english\/StatsFact.asp?cancer=320&country=246"
+  },
+  {
+    "Koodi": 310,
+    "fi-name": "Ihomelanooma",
+    "fi-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/FI\/StatsFact.asp?cancer=310&country=246",
+    "se-name": "Malignt melanom i huden",
+    "se-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/SW\/StatsFact.asp?cancer=310&country=246",
+    "en-name": "Melanoma of skin",
+    "en-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/english\/StatsFact.asp?cancer=310&country=246"
+  },
+  {
+    "Koodi": 510,
+    "fi-name": "Kaikki sy\u00f6v\u00e4t",
+    "fi-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/FI\/StatsFact.asp?cancer=510&country=246",
+    "se-name": "Samtliga l\u00e4gen",
+    "se-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/SW\/StatsFact.asp?cancer=510&country=246",
+    "en-name": "All sites",
+    "en-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/english\/StatsFact.asp?cancer=510&country=246"
+  },
+  {
+    "Koodi": 180,
+    "fi-name": "Keuhko",
+    "fi-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/FI\/StatsFact.asp?cancer=180&country=246",
+    "se-name": "Lunga",
+    "se-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/SW\/StatsFact.asp?cancer=180&country=246",
+    "en-name": "Lung",
+    "en-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/english\/StatsFact.asp?cancer=180&country=246"
+  },
+  {
+    "Koodi": 190,
+    "fi-name": "Keuhkopussi",
+    "fi-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/FI\/StatsFact.asp?cancer=190&country=246",
+    "se-name": "Lungs\u00e4ck",
+    "se-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/SW\/StatsFact.asp?cancer=190&country=246",
+    "en-name": "Pleura",
+    "en-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/english\/StatsFact.asp?cancer=190&country=246"
+  },
+  {
+    "Koodi": 350,
+    "fi-name": "Kilpirauhanen",
+    "fi-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/FI\/StatsFact.asp?cancer=350&country=246",
+    "se-name": "Sk\u00f6ldk\u00f6rteln",
+    "se-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/SW\/StatsFact.asp?cancer=350&country=246",
+    "en-name": "Thyroid",
+    "en-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/english\/StatsFact.asp?cancer=350&country=246"
+  },
+  {
+    "Koodi": 271,
+    "fi-name": "Kives",
+    "fi-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/FI\/StatsFact.asp?cancer=271&country=246",
+    "se-name": "Testikel",
+    "se-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/SW\/StatsFact.asp?cancer=271&country=246",
+    "en-name": "Testis",
+    "en-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/english\/StatsFact.asp?cancer=271&country=246"
+  },
+  {
+    "Koodi": 212,
+    "fi-name": "Kohdunkaula",
+    "fi-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/FI\/StatsFact.asp?cancer=212&country=246",
+    "se-name": "Livmoderhals",
+    "se-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/SW\/StatsFact.asp?cancer=212&country=246",
+    "en-name": "Cervix uteri",
+    "en-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/english\/StatsFact.asp?cancer=212&country=246"
+  },
+  {
+    "Koodi": 222,
+    "fi-name": "Kohdunrunko",
+    "fi-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/FI\/StatsFact.asp?cancer=222&country=246",
+    "se-name": "Livmoderkropp",
+    "se-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/SW\/StatsFact.asp?cancer=222&country=246",
+    "en-name": "Corpus uteri",
+    "en-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/english\/StatsFact.asp?cancer=222&country=246"
+  },
+  {
+    "Koodi": 170,
+    "fi-name": "Kurkunp\u00e4\u00e4",
+    "fi-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/FI\/StatsFact.asp?cancer=170&country=246",
+    "se-name": "Struphuvud",
+    "se-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/SW\/StatsFact.asp?cancer=170&country=246",
+    "en-name": "Larynx",
+    "en-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/english\/StatsFact.asp?cancer=170&country=246"
+  },
+  {
+    "Koodi": 410,
+    "fi-name": "Leukemia",
+    "fi-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/FI\/StatsFact.asp?cancer=410&country=246",
+    "se-name": "Leukemi",
+    "se-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/SW\/StatsFact.asp?cancer=410&country=246",
+    "en-name": "Leukaemia",
+    "en-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/english\/StatsFact.asp?cancer=410&country=246"
+  },
+  {
+    "Koodi": 420,
+    "fi-name": "Leukemia, lymfaattinen akuutti",
+    "fi-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/FI\/StatsFact.asp?cancer=420&country=246",
+    "se-name": "Akut lymfatisk leukemi",
+    "se-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/SW\/StatsFact.asp?cancer=420&country=246",
+    "en-name": "Acute lymphatic leukaemia",
+    "en-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/english\/StatsFact.asp?cancer=420&country=246"
+  },
+  {
+    "Koodi": 430,
+    "fi-name": "Leukemia, lymfaattinen krooninen",
+    "fi-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/FI\/StatsFact.asp?cancer=430&country=246",
+    "se-name": "Kronisk lymfatisk leukemi",
+    "se-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/SW\/StatsFact.asp?cancer=430&country=246",
+    "en-name": "Chronic lymphatic leukaemia",
+    "en-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/english\/StatsFact.asp?cancer=430&country=246"
+  },
+  {
+    "Koodi": 450,
+    "fi-name": "Leukemia, myelooinen akuutti",
+    "fi-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/FI\/StatsFact.asp?cancer=450&country=246",
+    "se-name": "Akut myeloisk leukemi",
+    "se-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/SW\/StatsFact.asp?cancer=450&country=246",
+    "en-name": "Acute myeloid leukaemia",
+    "en-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/english\/StatsFact.asp?cancer=450&country=246"
+  },
+  {
+    "Koodi": 460,
+    "fi-name": "Leukemia, myelooinen krooninen",
+    "fi-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/FI\/StatsFact.asp?cancer=460&country=246",
+    "se-name": "Kronisk myeloisk leukemi",
+    "se-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/SW\/StatsFact.asp?cancer=460&country=246",
+    "en-name": "Chronic myeloid leukaemia",
+    "en-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/english\/StatsFact.asp?cancer=460&country=246"
+  },
+  {
+    "Koodi": 360,
+    "fi-name": "Luu",
+    "fi-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/FI\/StatsFact.asp?cancer=360&country=246",
+    "se-name": "Skelett",
+    "se-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/SW\/StatsFact.asp?cancer=360&country=246",
+    "en-name": "Bone",
+    "en-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/english\/StatsFact.asp?cancer=360&country=246"
+  },
+  {
+    "Koodi": 90,
+    "fi-name": "Maha",
+    "fi-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/FI\/StatsFact.asp?cancer=90&country=246",
+    "se-name": "Mags\u00e4ck",
+    "se-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/SW\/StatsFact.asp?cancer=90&country=246",
+    "en-name": "Stomach",
+    "en-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/english\/StatsFact.asp?cancer=90&country=246"
+  },
+  {
+    "Koodi": 130,
+    "fi-name": "Maksa",
+    "fi-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/FI\/StatsFact.asp?cancer=130&country=246",
+    "se-name": "Lever",
+    "se-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/SW\/StatsFact.asp?cancer=130&country=246",
+    "en-name": "Liver",
+    "en-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/english\/StatsFact.asp?cancer=130&country=246"
+  },
+  {
+    "Koodi": 242,
+    "fi-name": "Munasarjat ja -johdin",
+    "fi-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/FI\/StatsFact.asp?cancer=242&country=246",
+    "se-name": "\u00c4ggstock, \u00e4ggledare ",
+    "se-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/SW\/StatsFact.asp?cancer=242&country=246",
+    "en-name": "Ovary, Fallopan tube ",
+    "en-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/english\/StatsFact.asp?cancer=242&country=246"
+  },
+  {
+    "Koodi": 290,
+    "fi-name": "Munuainen",
+    "fi-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/FI\/StatsFact.asp?cancer=290&country=246",
+    "se-name": "Njure inklusive njurb\u00e4cken",
+    "se-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/SW\/StatsFact.asp?cancer=290&country=246",
+    "en-name": "Kidney",
+    "en-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/english\/StatsFact.asp?cancer=290&country=246"
+  },
+  {
+    "Koodi": 400,
+    "fi-name": "Myelooma",
+    "fi-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/FI\/StatsFact.asp?cancer=400&country=246",
+    "se-name": "Multipelt myelom",
+    "se-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/SW\/StatsFact.asp?cancer=400&country=246",
+    "en-name": "Multiple myeloma",
+    "en-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/english\/StatsFact.asp?cancer=400&country=246"
+  },
+  {
+    "Koodi": 160,
+    "fi-name": "Nen\u00e4",
+    "fi-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/FI\/StatsFact.asp?cancer=160&country=246",
+    "se-name": "N\u00e4sh\u00e5la och bih\u00e5lor",
+    "se-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/SW\/StatsFact.asp?cancer=160&country=246",
+    "en-name": "Nose, sinuses",
+    "en-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/english\/StatsFact.asp?cancer=160&country=246"
+  },
+  {
+    "Koodi": 50,
+    "fi-name": "Nen\u00e4nielu",
+    "fi-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/FI\/StatsFact.asp?cancer=50&country=246",
+    "se-name": "\u00d6vre svalgrum",
+    "se-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/SW\/StatsFact.asp?cancer=50&country=246",
+    "en-name": "Nasopharynx",
+    "en-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/english\/StatsFact.asp?cancer=50&country=246"
+  },
+  {
+    "Koodi": 380,
+    "fi-name": "Non-Hodgkin \u2013lymfooma",
+    "fi-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/FI\/StatsFact.asp?cancer=380&country=246",
+    "se-name": "Non-Hodgkin-lymfom",
+    "se-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/SW\/StatsFact.asp?cancer=380&country=246",
+    "en-name": "Non-Hodgkin lymphoma",
+    "en-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/english\/StatsFact.asp?cancer=380&country=246"
+  },
+  {
+    "Koodi": 100,
+    "fi-name": "Ohutsuoli",
+    "fi-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/FI\/StatsFact.asp?cancer=100&country=246",
+    "se-name": "Tunntarm",
+    "se-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/SW\/StatsFact.asp?cancer=100&country=246",
+    "en-name": "Small intestine",
+    "en-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/english\/StatsFact.asp?cancer=100&country=246"
+  },
+  {
+    "Koodi": 550,
+    "fi-name": "Paksu- ja per\u00e4suoli",
+    "fi-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/FI\/StatsFact.asp?cancer=550&country=246",
+    "se-name": "Tjock- och \u00e4ndtarm",
+    "se-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/SW\/StatsFact.asp?cancer=550&country=246",
+    "en-name": "Colorectal",
+    "en-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/english\/StatsFact.asp?cancer=550&country=246"
+  },
+  {
+    "Koodi": 110,
+    "fi-name": "Paksusuoli",
+    "fi-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/FI\/StatsFact.asp?cancer=110&country=246",
+    "se-name": "Tjocktarm",
+    "se-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/SW\/StatsFact.asp?cancer=110&country=246",
+    "en-name": "Colon",
+    "en-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/english\/StatsFact.asp?cancer=110&country=246"
+  },
+  {
+    "Koodi": 370,
+    "fi-name": "Pehmytkudos",
+    "fi-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/FI\/StatsFact.asp?cancer=370&country=246",
+    "se-name": "Bindv\u00e4v, muskler och annan mjuk v\u00e4vnad",
+    "se-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/SW\/StatsFact.asp?cancer=370&country=246",
+    "en-name": "Soft tissues",
+    "en-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/english\/StatsFact.asp?cancer=370&country=246"
+  },
+  {
+    "Koodi": 120,
+    "fi-name": "Per\u00e4suoli ja anus",
+    "fi-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/FI\/StatsFact.asp?cancer=120&country=246",
+    "se-name": "\u00c4ndtarm och anus",
+    "se-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/SW\/StatsFact.asp?cancer=120&country=246",
+    "en-name": "Rectum and anus",
+    "en-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/english\/StatsFact.asp?cancer=120&country=246"
+  },
+  {
+    "Koodi": 200,
+    "fi-name": "Rinta",
+    "fi-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/FI\/StatsFact.asp?cancer=200&country=246",
+    "se-name": "Br\u00f6st",
+    "se-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/SW\/StatsFact.asp?cancer=200&country=246",
+    "en-name": "Breast",
+    "en-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/english\/StatsFact.asp?cancer=200&country=246"
+  },
+  {
+    "Koodi": 80,
+    "fi-name": "Ruokatorvi",
+    "fi-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/FI\/StatsFact.asp?cancer=80&country=246",
+    "se-name": "Matstrupe",
+    "se-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/SW\/StatsFact.asp?cancer=80&country=246",
+    "en-name": "Oesophagus",
+    "en-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/english\/StatsFact.asp?cancer=80&country=246"
+  },
+  {
+    "Koodi": 140,
+    "Nimike suomeksi": " Sappirakko ja sappitiet",
+    "fi-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/FI\/StatsFact.asp?cancer=140&country=246",
+    "se-name": "Gallbl\u00e5sa och gallv\u00e4gar",
+    "se-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/SW\/StatsFact.asp?cancer=140&country=246",
+    "en-name": "Gallbladder",
+    "en-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/english\/StatsFact.asp?cancer=140&country=246"
+  },
+  {
+    "Koodi": 330,
+    "fi-name": "Silm\u00e4",
+    "fi-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/FI\/StatsFact.asp?cancer=330&country=246",
+    "se-name": "\u00d6ga",
+    "se-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/SW\/StatsFact.asp?cancer=330&country=246",
+    "en-name": "Eye",
+    "en-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/english\/StatsFact.asp?cancer=330&country=246"
+  },
+  {
+    "Koodi": 540,
+    "Nimike suomeksi": " Huuli,\u00a0suu ja nielu",
+    "fi-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/FI\/StatsFact.asp?cancer=540&country=246",
+    "se-name": "L\u00e4pp, munh\u00e5la och svalg",
+    "se-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/SW\/StatsFact.asp?cancer=540&country=246",
+    "en-name": "Lip, oral cavity and pharynx",
+    "en-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/english\/StatsFact.asp?cancer=540&country=246"
+  },
+  {
+    "Koodi": 40,
+    "fi-name": "Suunielu",
+    "fi-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/FI\/StatsFact.asp?cancer=40&country=246",
+    "se-name": "Mellansvalg",
+    "se-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/SW\/StatsFact.asp?cancer=40&country=246",
+    "en-name": "Oropharynx",
+    "en-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/english\/StatsFact.asp?cancer=40&country=246"
+  },
+  {
+    "Koodi": 20,
+    "fi-name": "Suuontelo",
+    "fi-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/FI\/StatsFact.asp?cancer=20&country=246",
+    "se-name": "Tunga",
+    "se-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/SW\/StatsFact.asp?cancer=20&country=246",
+    "en-name": "Oral cavity",
+    "en-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/english\/StatsFact.asp?cancer=20&country=246"
+  },
+  {
+    "Koodi": 30,
+    "fi-name": "Sylkirauhaset",
+    "fi-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/FI\/StatsFact.asp?cancer=30&country=246",
+    "se-name": "Spottk\u00f6rtel",
+    "se-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/SW\/StatsFact.asp?cancer=30&country=246",
+    "en-name": "Salivary glands",
+    "en-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/english\/StatsFact.asp?cancer=30&country=246"
+  },
+  {
+    "Koodi": 500,
+    "fi-name": "Tuntematon ja m\u00e4\u00e4rittelem\u00e4t\u00f6n sijainti",
+    "fi-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/FI\/StatsFact.asp?cancer=500&country=246",
+    "se-name": "Ok\u00e4nd och ofullst\u00e4ndigt angiven",
+    "se-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/SW\/StatsFact.asp?cancer=500&country=246",
+    "en-name": "Unknown and ill-defined",
+    "en-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/english\/StatsFact.asp?cancer=500&country=246"
+  },
+  {
+    "Koodi": 300,
+    "fi-name": "Virtsarakko ja muut virtsaelimet",
+    "fi-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/FI\/StatsFact.asp?cancer=300&country=246",
+    "se-name": "Urinbl\u00e5sa och \u00f6vriga urinv\u00e4gar",
+    "se-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/SW\/StatsFact.asp?cancer=300&country=246",
+    "en-name": "Bladder etc.",
+    "en-url": "http:\/\/www-dep.iarc.fr\/NORDCAN\/english\/StatsFact.asp?cancer=300&country=246"
+  }
+]
+}

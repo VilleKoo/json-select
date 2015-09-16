@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="fi">
+<head>
+<title>JSON PERKELE</title>
+</head>
+<body>
+<style>
+button {
+	background: white;
+	border: 0;
+}
+
+button a {
+	text-decoration: none;
+	font-weight: 700;
+	color: black; 
+}
+
+button a.active { color: red;  }
+</style>
+<p>
+  <label for="cancer">Cancer:</label>
+  <select id="cancer"></select>
+  <button><a href="" id="nappi">Boom</a></button>
+</p>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.js"></script>
+
+<script>
+
+$(document).ready(function () {
+  $.getJSON( 
+    "cancer.json", 
+      function( jsonData ) {
+      	
+        var lang = $('html').attr('lang');
+  
+        var url  = lang;
+        var name = lang;
+
+        url  +='-url';
+        name +='-name';
+
+        var listItems = '<option data-url="" selected="selected" value="0">- select -</option>';
+
+        for (var i = 0; i < jsonData.Table.length; i++) {
+          listItems += "<option data-url='" + jsonData.Table[i][url] + "' value='" + jsonData.Table[i].Koodi + "'>" + jsonData.Table[i][name] + "</option>";
+    	}
+        
+        $("#cancer").html(listItems).change(function(){
+        	var datalink = $('select option:selected').attr('data-url');
+
+        	if( $(this).val().length != 0 ) {
+        		$('#nappi').attr('href', datalink).addClass('active').text('Active');
+        		}
+        	else {
+        		$('#nappi').text('Paskaaaaa');
+        	}
+        });
+    });
+});
+
+
+  </script>
+
+</body>
+</html>
+
+
+ 
