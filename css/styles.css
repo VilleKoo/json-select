@@ -82,7 +82,8 @@ section { height: 100%; }
 
 label {
 	font-size: 48px;
-	font-family: 'Libre Baskerville', 'georgia', serif;
+	font-weight: 300;
+	text-transform: uppercase;
 
 }
 
