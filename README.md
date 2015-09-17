@@ -1,2 +1,2 @@
 # json-select
-Populate select dropdown with json data based on html="lang" attribute. 
+Populate select dropdown with json data based on html lang attribute. 
