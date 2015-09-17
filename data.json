@@ -1,7 +1,7 @@
 
  { "Table":[
   {
-    "Koodi": 2,
+    "Code": 2,
     
     "fi-name": "Tuote - 1",
     "fi-url": "http:\/\/google.fi",
@@ -13,7 +13,7 @@
     "en-url": "http:\/\/http:\/\/google.com"
   },
   {
-    "Koodi": 60,
+    "Code": 60,
     
     "fi-name": "Tuote - 2",
     "fi-url": "http:\/\/google.fi",
@@ -25,7 +25,7 @@
     "en-url": "http:\/\/http:\/\/google.com"
   },
   {
-    "Koodi": 261,
+    "Code": 261,
     
     "fi-name": "Tuote - 3",
     "fi-url": "http:\/\/google.fi",
@@ -37,7 +37,7 @@
     "en-url": "http:\/\/http:\/\/google.com"
   },
   {
-    "Koodi": 150,
+    "Code": 150,
    
     "fi-name": "Tuote - 4",
     "fi-url": "http:\/\/google.fi",
