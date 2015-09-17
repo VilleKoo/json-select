@@ -59,10 +59,17 @@ html {
 body, html { height: 100%; }
 
 body {
-	background: #C0D6DF;
 	font-family: 'Open Sans', 'Helvetica', Arial, sans-serif;
-	color: #333;
+	color: white;
 	-webkit-font-smoothing: antialiased;
+	background: rgba(69,123,157,1);
+	background: -moz-linear-gradient(-45deg, rgba(69,123,157,1) 0%, rgba(168,218,220,1) 99%, rgba(168,218,220,1) 100%);
+	background: -webkit-gradient(left top, right bottom, color-stop(0%, rgba(69,123,157,1)), color-stop(99%, rgba(168,218,220,1)), color-stop(100%, rgba(168,218,220,1)));
+	background: -webkit-linear-gradient(-45deg, rgba(69,123,157,1) 0%, rgba(168,218,220,1) 99%, rgba(168,218,220,1) 100%);
+	background: -o-linear-gradient(-45deg, rgba(69,123,157,1) 0%, rgba(168,218,220,1) 99%, rgba(168,218,220,1) 100%);
+	background: -ms-linear-gradient(-45deg, rgba(69,123,157,1) 0%, rgba(168,218,220,1) 99%, rgba(168,218,220,1) 100%);
+	background: linear-gradient(135deg, rgba(69,123,157,1) 0%, rgba(168,218,220,1) 99%, rgba(168,218,220,1) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#457b9d', endColorstr='#a8dadc', GradientType=1 );
 }
 
 section { height: 100%; }
@@ -81,10 +88,9 @@ section { height: 100%; }
 }
 
 label {
-	font-size: 48px;
-	font-weight: 300;
+	font-size: 72px;
+	font-weight: 700;
 	text-transform: uppercase;
-
 }
 
 select, 
@@ -99,8 +105,7 @@ select {
 	font-size: 1em;
 	padding: 1em; 
 	border: 0;
-	border-radius: 5px;
-	box-shadow: 0 2px 0 #9cbbc8;
+	box-shadow: 0 2px 0 rgba(63, 123, 157,.4);
 	cursor: pointer;
 	text-align: left;
 }
@@ -115,19 +120,44 @@ select:focus::-ms-value {
 }
 
 button {
-	background: white;
+	background: #1D3557;
+	color: white;
 	border: 0;
+	position: relative;
 	padding: 1em 3em;
 	width: 10em;
 	font-family: 'Open Sans', 'Helvetica', Arial, sans-serif;
 	text-transform: uppercase;
 	font-weight: 700;
-	box-shadow: 0 2px 0 #9cbbc8;
+	box-shadow: 0 2px 0 rgba(63, 123, 157,.4);
 	cursor: pointer;
+	transition: all .3s; 
 }
 
 button[disabled] { 
+	background: white;
 	color: red; 
 	box-shadow: none;
 	cursor: initial; 
+	opacity: .5;
+}
+
+#load {
+	height: 100%;
+	width: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 200;
+	background: #457B9D;
+	opacity: .8;
+	text-align: center;
+}
+
+#load img {
+	position: relative;
+  	top: 50%;
+  	-webkit-transform: translateY(-50%);
+  	    -ms-transform: translateY(-50%);
+  		transform: translateY(-50%);
 }
