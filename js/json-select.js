@@ -16,7 +16,7 @@ $(document).ready(function () {
         $('#cancer').html(listItems).change(function(){
         	var datalink = $('select option:selected').attr('data-url');
 
-            $('#continue').prop('disabled', false).text('jatka').click(function(){
+            $('#continue').prop('disabled', false).text('continue').click(function(){
                 window.location = datalink;
             });
             
